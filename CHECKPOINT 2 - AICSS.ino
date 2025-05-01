@@ -1,5 +1,5 @@
 // CHECKPOINT 2 - AICSS //
-// Integrantes: Bruno 552574 + Edgar 565260 + Júlia 566325
+// Integrantes: Bruno + Edgar + Júlia
 
 // ÁREA DE VARIAVIES ======================================================================================//
 // EXERCICIO 1 - VARIAVIES DE LIGA E DESLIGA DOS LEDs
